@@ -1,0 +1,27 @@
+name: ElowyrLobby
+author: SkillOfFire
+version: 1.0
+main: fr.elowyr.lobby.ElowyrLobby
+depend:
+  - PlaceholderAPI
+commands:
+  gmc:
+    description: gamemode creatif
+  spawn:
+    aliases:
+      - lobby
+      - hub
+  gms:
+    description: gamemode survival
+  broadcast:
+    aliases:
+      - bc
+  servers:
+    description: open or close servers
+  chat:
+  combat:
+  ks:
+    aliases:
+      - KillStreak
+      - kill
+      - deaths
